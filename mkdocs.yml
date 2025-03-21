@@ -1,0 +1,16 @@
+site_name: Process Design Manual
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Processes: processes.md
+  - Diagrams: diagrams.md
+  - Tools: tools.md
+  - Templates: templates.md
+  - Review: review.md
+  - Challenges: challenges.md
+  - Resources: resources.md
+markdown_extensions:
+  - toc:
+      permalink: true
